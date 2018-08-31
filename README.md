@@ -1,16 +1,7 @@
-# employees-vue-app
+## About
 
-## Project setup
-```
-npm install
-```
+This app is build with 
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
+* VueJS
+* Vuetify
+* Google Filestore
